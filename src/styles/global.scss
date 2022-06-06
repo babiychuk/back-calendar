@@ -1,0 +1,57 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+hr {
+        margin: 0;
+}
+
+body {
+        font: 400 16px "Prompt", sans-serif;
+        color: #181819;
+}
+
+.title {
+        font-family: 'Prompt';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        color: #181819;
+        padding-top: 55px;
+        padding-bottom: 10px;
+}
+
+.sub-title {
+        font-family: 'Prompt';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #181819;
+        padding-bottom: 30px;
+}
+
+.btn-add-activity {
+        padding: 8px 16px 8px 0px;
+        gap: 10px;
+        height: 48px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        border-color: transparent !important;
+        color: #0079FC !important;
+}
+
+.pt-40 {
+        padding-top: 40px;
+}
+
+.p0-20 {
+        padding: 0 20rem !important;
+}
+
+img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+}

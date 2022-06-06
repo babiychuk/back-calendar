@@ -1,0 +1,49 @@
+  .activity-form {
+    color: #252525;
+    background-color: #f7f7f7;
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #dedede;
+    border-radius: 0.75rem;
+  }
+
+  .add-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 10px;
+    width: 172px;
+    height: 48px;
+    background: #55CAA0 !important;
+    border-color: #55CAA0 !important;
+    border-radius: 8px;
+  }
+
+  .edit-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 10px;
+    width: 172px;
+    height: 48px;
+    background: #cab555 !important;
+    border-color: #cab555 !important;
+    border-radius: 8px;
+  }
+
+  .cansel-btn {
+    padding: 8px 16px;
+    gap: 10px;
+    width: 172px;
+    height: 48px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    border-color: transparent !important;
+    color: #0079FC !important;
+  }
